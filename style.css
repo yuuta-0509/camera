@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightseagreen;
+}
+
+#myvideo {
+    display: none;
+}
+
+#mycanvas {
+    display: none;
+}
+#buttonoff {
+    display: none;
+}
+
+#second {
+    display: none;
+    font-size: 20px;
+}
+#inComent {
+    font-size: 30px;
+}
+
+#coment {
+    border: solid black 3px;
+    padding: 10px;
+    display: none;
+}
